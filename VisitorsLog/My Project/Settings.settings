@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="dbaseServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="dbasePort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="dbaseUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">visitor</Value>
+    </Setting>
+    <Setting Name="dbasePwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">visitors</Value>
+    </Setting>
+    <Setting Name="dbaseSchema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">visitors</Value>
+    </Setting>
+    <Setting Name="computerMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IN</Value>
+    </Setting>
+    <Setting Name="AUTO_IN_OUT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
